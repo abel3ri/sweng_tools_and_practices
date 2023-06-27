@@ -17,21 +17,33 @@ html {
 body {
   background-color: var(--background-color);
 }
-h1,
-h2,
-h3,
-h4,
-p {
-  color: var(--primary-color);
+.name,
+.id {
+  color: var(--secondary-swatch);
+}
+.stud-list-container {
+  background-color: var(--primary-color);
+  border-radius: 0.5rem;
+  max-width: 45rem;
+  margin: 0 auto;
+  padding: 2rem;
+  margin-top: 3rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+.stud-list-container div {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 0.5fr;
 }
 
-.container {
+a {
+  cursor: pointer;
+  color: var(--secondary-color);
+  background-color: #17171726;
+  width: 2rem;
+  place-self: end;
+
   display: flex;
-  justify-content: center;
-
-  max-width: 40rem;
-  min-height: 100vh;
-
-  margin: 0 auto;
-  padding: 2rem 0;
 }

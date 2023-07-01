@@ -2,6 +2,8 @@
 
 ## Project Participants:
 
+## [Contributors](https://github.com/abel3ri/sweng_tools_and_practices/graphs/contributors)
+
 | Name             | Id number    | Github account                              |
 | ---------------- | ------------ | ------------------------------------------- |
 | Abel Merete      | DBUR/0032/13 | [abel3ri](https://github.com/abel3ri)       |

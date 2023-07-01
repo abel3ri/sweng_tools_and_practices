@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
+
+html {
+  font-family: "Poppins", sans-serif !important;
+}
+body {
+  background-color: #0b182a;
+}
+.header-text {
+  text-align: center;
+  color: #ffffff3d;
+}
+.to-do-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+
+  margin: 0 auto;
+  background-color: #ffffff3d;
+  max-width: 30rem;
+  height: 20vh;
+  border-radius: 10px;
+}
+input[type="button"] {
+  cursor: pointer;
+  background-color: #0b182a !important;
+  color: #fff;
+  padding: 0.6rem 2rem;
+  border-radius: 10px;
+}
+input[type="text"] {
+  border-radius: 6px;
+  height: 2rem;
+  outline: none;
+  padding: 0 0.5rem;
+  background-color: #b0cfd5;
+  border: 3px solid #fff;
+  color: #051e3c;
+  font-size: 1.2rem;
+}
+
+.todo-content {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.todo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+
+  width: 26rem;
+  margin-top: 1rem;
+  background-color: #ffffff3d;
+  padding: 1rem 2rem;
+  border-radius: 10px;
+}
+.todo div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  color: #fff;
+}
+.todo input[type="checkbox"] {
+  margin-right: 1rem;
+  font-size: 1.4rem;
+}
+.todo p {
+  user-select: none;
+}
+.delete-btn {
+  cursor: pointer;
+  width: 1.4rem;
+  color: rgb(255, 0, 0);
+  font-weight: 900;
+}

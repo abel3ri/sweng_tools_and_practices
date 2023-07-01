@@ -17,4 +17,4 @@
 | Muse Madalcho    | DBUR/3720/13 | [Exoduscode](https://github.com/Exoduscode) |
 
 
-### Make sure to run these projects inside a liverserver(recommended) to correctly the js files without a CORS policy error.
+### Make sure to run these projects inside a liverserver(recommended) to correctly run the js files without a CORS policy error.

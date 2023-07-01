@@ -12,6 +12,6 @@
 | Fikade Tibebe    | DBU1400042   | [Fikefikr12](https://github.com/Fikefikr12) |
 | Samuel Kifle     | DBUR/0698/13 | [samuel-k-w](https://github.com/samuel-k-w) |
 | Tarik Dabot      | DBU1400100   | [tarikdabot](https://github.com/tarikdabot) |
-| Abdulaziz Musa   | DBUR/0597/13 |                                             |
+| Abdulaziz Musa   | DBUR/0597/13 | [Abdum2018](https://github.com/Abdum2018)   |                                      |
 | Dawit Bekele     | DBUR/0952/13 |                                             |
 | Muse Madalcho    | DBUR/3720/13 | [Exoduscode](https://github.com/Exoduscode) |

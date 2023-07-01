@@ -12,6 +12,9 @@
 | Fikade Tibebe    | DBU1400042   | [Fikefikr12](https://github.com/Fikefikr12) |
 | Samuel Kifle     | DBUR/0698/13 | [samuel-k-w](https://github.com/samuel-k-w) |
 | Tarik Dabot      | DBU1400100   | [tarikdabot](https://github.com/tarikdabot) |
-| Abdulaziz Musa   | DBUR/0597/13 | [Abdum2018](https://github.com/Abdum2018)   |                                      |
-| Dawit Bekele     | DBUR/0952/13 |                                             |
+| Abdulaziz Musa   | DBUR/0597/13 | [Abdum2018](https://github.com/Abdum2018)   |                                      
+| Dawit Bekele     | DBUR/0952/13 | [d1dd1d](https://github.com/d1dd1d)         |                                
 | Muse Madalcho    | DBUR/3720/13 | [Exoduscode](https://github.com/Exoduscode) |
+
+
+### Make sure to run these projects inside a liverserver(recommended) to correctly the js files without a CORS policy error.

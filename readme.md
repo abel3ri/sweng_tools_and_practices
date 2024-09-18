@@ -14,7 +14,7 @@
 | Tarik Dabot      | DBU1400100   | [tarikdabot](https://github.com/tarikdabot) |
 | Abdulaziz Musa   | DBUR/0597/13 | [Abdum2018](https://github.com/Abdum2018)   |                                      
 | Dawit Bekele     | DBUR/0952/13 | [d1dd1d](https://github.com/d1dd1d)         |                                
-| Muse Madalcho    | DBUR/3720/13 | [MuseDev](https://github.com/MuseDev) |
+| Muse Madalcho    | DBUR/3720/13 | [Muse7ADev](https://github.com/Muse7ADev) |
 
 
 ### Make sure to run these projects inside a liverserver(recommended) to correctly run the js files without a CORS policy error.
